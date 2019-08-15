@@ -1,0 +1,4 @@
+name: NoItemDeath
+version: ${project.version}
+main: com.zp4rker.noitemdeath.NoItemDeath
+author: zp4rker
